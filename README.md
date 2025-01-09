@@ -10,11 +10,16 @@ We start by cleaning our data. Tasks during this section include:
 - Change the type of columns (to_numeric, to_datetime, astype)
 
 Once we have cleaned up our data a bit, we move the data exploration section. In this section we explore 5 high level business questions related to our data:
-- What was the best month for sales? How much was earned that month?
-- What city sold the most product?
-- What time should we display advertisemens to maximize the likelihood of customer’s buying product?
-- What products are most often sold together?
-- What product sold the most? Why do you think it sold the most?
+ 1. What was the best month for sales? How much was earned that month? <br/>
+![1 results](../main/Results/1.png)
+ 2. What city sold the most product? <br/>
+![1 results](../main/Results/2.png)
+ 3. What time should we display advertisemens to maximize the likelihood of customer’s buying product? <br/>
+![1 results](../main/Results/3.png)
+ 4. What products are most often sold together? <br/>
+![1 results](../main/Results/4.png)
+ 5. What product sold the most? Why do you think it sold the most? <br/>
+![1 results](../main/Results/5.png)
 
 To answer these questions we walk through many different pandas & matplotlib methods. They include:
 - Concatenating multiple csvs together to create a new DataFrame (pd.concat)
