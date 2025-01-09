@@ -1,7 +1,7 @@
 # Pandas-Data-Analyst-Tasks
 Set of real world data Analyst tasks completed using the Python Pandas library.
 
-##background Information
+## Background Information
 We have of 12 months  sales data during 2019. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
 We start by cleaning our data. Tasks during this section include:
